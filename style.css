@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255,215, 255);
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accordian{
+    background-color: white;
+    padding: 4px;
+    margin: 4px;
+    cursor: pointer;
+}
+.question{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.answer{
+    color: #666;
+}
